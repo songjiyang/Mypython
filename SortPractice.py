@@ -117,7 +117,7 @@ def main():
     print(mergeSort(randomList))
     mid_list = [1,3,5,10,34,99]
     print(mid_search(mid_list,34))
-
+    print(type((1)))
 main()
 
 
